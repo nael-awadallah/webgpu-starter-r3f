@@ -19,7 +19,7 @@ export function Overlay({
       </header>
       <footer>
         <p className="footer-text">
-          Created by <a href="#">NAEL</a>
+          Created by <a href="#">NAEL AWADALLAH</a>
         </p>
         <div className="footer-buttons">
           <button
@@ -45,7 +45,7 @@ export function Overlay({
           </button>
         </div>
         <a
-          href="https://github.com/nael-awadallah/r3f-webgpu-starter"
+          href="https://github.com/nael-awadallah/webgpu-starter-r3f"
           download
           className="download-button"
         >
