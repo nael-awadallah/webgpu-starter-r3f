@@ -1,9 +1,9 @@
 # React Three Fiber WebGPU Post Processing
 
-[![screenshot](https://r3f-webgpu-post-processing.vercel.app/social.jpg)](https://r3f-webgpu-post-processing.vercel.app/)
+[![screenshot](https://webgpu-starter-r3f.vercel.app//social.jpg)](https://webgpu-starter-r3f.vercel.app//)
 
 A very simple scene to demonstrate how to integrate Threejs WebGPU with React Three Fiber using Post Processing effects.
-[See the demo here](https://r3f-webgpu-post-processing.vercel.app/)
+[See the demo here](https://webgpu-starter-r3f.vercel.app//)
 
 ### Getting Started using this demo project
 
